@@ -22,7 +22,7 @@ function Home() {
         src='/doodle-district/'
         title='涂鸦街区'
         className='h-full w-full border-0'
-        allow='autoplay; fullscreen; gamepad'
+        allow='autoplay; clipboard-read; clipboard-write; fullscreen; gamepad'
       />
     </div>
   );
